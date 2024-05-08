@@ -38,7 +38,7 @@ Here is an analytical approach to evaluate various niches on Fiverr. This involv
 This repository can be a valuable tool for anyone looking to identify low competition niches on Fiverr. Here's how you can use it:
 
 1. **Clone the Repository:** Use Git to clone this repository to your local machine.
-2. **Explore the Data:** Open the `data.xlsx` file in your spreadsheet software. This sheet contains the collected data and analysis for various niches.
+2. **Explore the Data:** Open the `Fiverr Competition Research.xlsx` file in your spreadsheet software. This sheet contains the collected data and analysis for various niches.
 3. **Analysis:**  Analyze the data to identify niches that meet your criteria for low competition and good potential. Consider factors like the number of sellers, average seller rating, average price points, and search volume (if available).
 4. **Further Research:** Use the identified niches as a starting point for further research. Explore the specific services offered within those niches and refine your niche selection based on your skills and experience.
 
