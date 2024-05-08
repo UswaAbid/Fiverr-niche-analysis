@@ -1,4 +1,4 @@
-## Analytical analysis of selecting a low competition niche in Fiverr
+## ANALYTICAL ANALYSIS OF SELECTING A LOW COMPETITION NICHE IN FIVERR:
 
 This repository contains the data and analysis used to identify low competition niches on Fiverr, a freelance marketplace. 
 
